@@ -11,6 +11,11 @@
 - replace the URL with your actual URL which should consist `chat_id` , `auth_token` , `app_id` in `openSafari()` method under `main.dart`  file.
 - update your package id under `CFBundleURLSchemes tag`  in info.plist file under iOS folder. Ref: `/main/ios/Runner/Info.plist`.
 
+# Demo in action 
+
+https://github.com/pal-vishal/flutter_platform_channels_demo/assets/62802277/e16b1508-613a-49be-967b-cfde84d22dd4
+
+
 
 ## Getting Started
 
