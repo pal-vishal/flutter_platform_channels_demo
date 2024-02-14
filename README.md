@@ -1,6 +1,10 @@
-# flutter_cross_platform_communication
+# Flutter Cross Platform Communication
 
-A new Flutter project.
+- This project demonstrates the capability to run platform specific code in flutter app specifically for iOS.
+- Platform Channels are being used to invoke the trigger of running iOS specific code written in `Swift`.
+- Project specifically handles opening SfSafariWebView in iOS on trigger of CTA available in home screen of app. Ref : `main.dart`
+- Once the web view is opened, it can be closed porgramatically depending upon the call back received from web js.
+
 
 ## Getting Started
 
