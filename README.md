@@ -6,6 +6,12 @@
 - Once the web view is opened, it can be closed porgramatically depending upon the call back received from web js.
 
 
+# Configuration Setup
+- In order to test out the app, clone the repo and  update the following in project :
+- replace the URL with your actual URL which should consist `chat_id` , `auth_token` , `app_id` in `openSafari()` method under `main.dart`  file.
+- update your package id under `CFBundleURLSchemes tag`  in info.plist file under iOS folder. Ref: `/main/ios/Runner/Info.plist`.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
